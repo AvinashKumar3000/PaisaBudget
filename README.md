@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AvinashKumar3000/PaisaBudget/main/res/icon.png">
+  <img src="https://banner2.cleanpng.com/20190212/uu/kisspng-finance-clip-art-vector-graphics-accounting-portab-5c627178866572.7558206415499554485505.jpg">
 </div>
-
-[![javascript]
-[![firebase]
+[javascript]
+[firebase]
 
 **`Documentation`** |
 ------------------- |
