@@ -1,5 +1,10 @@
-<div align="center">
-  <img src="https://banner2.cleanpng.com/20190212/uu/kisspng-finance-clip-art-vector-graphics-accounting-portab-5c627178866572.7558206415499554485505.jpg">
+## technology
+<div style="display:flex;flex-direction:row">
+  <img src="https://cordova.apache.org/static/img/artwork/cordova_logo_normal_dark_large.png">
+  <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png">
+
+  
+  
 </div>
 [javascript]
 [firebase]
